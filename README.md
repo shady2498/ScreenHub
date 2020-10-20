@@ -1,4 +1,4 @@
-# start2
+# ScreenHub
 
 ## Project setup
 ```
